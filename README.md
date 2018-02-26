@@ -8,7 +8,4 @@ Radiographic image result of granuloma is marked with radiolucent (blackish colo
 
 Input for program will be a radiograph image which will produce an output of classification result notification to the user (Granuloma or Non-Granuloma).
 
-Three Steps to run the whole program:
-1. multiextraction.m, to produce extracted training image feature from multiple image to train program.
-2. training.m, to train classification based on extracted training image feature, this will create training result as reference for main program.
-3. main.m, the main program to detect granuloma from input image.
+Use multiextraction.m and training.m to train program first before main.m (once only).

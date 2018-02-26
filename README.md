@@ -1,6 +1,6 @@
 # granuloma-image-detect
 
-Matlab code for Granuloma Image Detection using Gabor Wavelet Method for Feature Extraction and Support Vector Machine for Classification with Guided User Inteface.
+Matlab GUI code for Granuloma Image Detection using Gabor Wavelet Method for Feature Extraction and Support Vector Machine for Classification with Guided User Inteface.
 
 Dental granuloma appears as total or partial chronic necrotic of the tooth root. In diagnosing this disorder, periapical radiography is needed to observe patient's tooth.
 
